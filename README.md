@@ -1,4 +1,4 @@
-three.js
+three.js this is from Katerina Shvec
 ========
 
 [![NPM Package][npm]][npm-url]
